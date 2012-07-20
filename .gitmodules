@@ -1,0 +1,9 @@
+[submodule "modules/ou_sparql_views"]
+	path = modules/ou_sparql_views
+	url = git@github.com:djevans/ou_sparql_views.git
+[submodule "modules/ou_tweaks"]
+	path = modules/ou_tweaks
+	url = git@github.com:djevans/ou_tweaks.git
+[submodule "modules/ou_sparql_groups"]
+	path = modules/ou_sparql_groups
+	url = git@github.com:djevans/ou_sparql_groups.git
